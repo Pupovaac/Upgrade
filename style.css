@@ -1,0 +1,89 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #c9deff;
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+
+#main {
+	width: 900px;
+	margin: 25px auto 0;
+	padding: 10px;
+	background: #FFFFFF;
+	box-shadow: 2px 4px 10px #333333;
+	border-radius: 10px;
+	overflow: hidden;
+	font-size: 18px;
+}
+.strong {
+	font-weight: bold;
+}
+
+.ita {
+	font-style: italic;
+}
+
+h1 {
+	margin: 0 0 15px;
+	text-align: center;
+}
+nav {
+	background: #c9deff;
+	padding: 0 0 10px;
+	box-shadow: 1px 2px 7px #333333;
+	border-radius: 5px;
+	height: 30px;
+}
+ 
+nav ul  {
+	padding: 0;	
+	list-style: none;
+	margin: 0;
+
+}
+nav ul li {
+	float: left;
+	padding: 10px;
+
+
+}
+nav ul li a {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+img#pupin {
+	float: left;
+	width: 190px;
+	height: 250px;
+	margin-right: 10px;
+}
+img#coils {
+	width: 210px;
+	height: 300px;
+	float: left;
+	margin-right: 10px;
+}
+
+table {
+	border-collapse: collapse;
+    width: 90%;
+    margin: 0 auto;
+	font-size: 16px;
+}
+th,td {
+	padding: 14px;
+	border: solid 2px #757575;
+}
+th {
+	background: #c9deff;
+	color: #000000;
+	box-shadow: 1px 1px 0px #333333;
+	border-radius: 1px;
+	
+}
+.long td {
+	vertical-align: top;
+}
+
+	
